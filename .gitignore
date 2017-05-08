@@ -1,0 +1,9 @@
+*.class
+*.log
+.cache
+.history
+.lib/
+target/
+.idea/
+*.iml
+dependency-reduced-pom.xml
